@@ -43,7 +43,3 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_VICTORIOUS_WAVE_0906C441E }}
           action: "close"
-          app_location: "react-app" # App source code path
-            api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_VICTORIOUS_WAVE_0906C441E }}
-            deploy_action: "close"
-          
