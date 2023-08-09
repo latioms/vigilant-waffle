@@ -132,7 +132,7 @@ _TeamCity*
 
 # DotCover is a Code Coverage Tool
 *.dotCover
-
+*.dotCover.resources
 # AxoCover is a Code Coverage Tool
 .axoCover/*
 !.axoCover/settings.json
